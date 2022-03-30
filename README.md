@@ -20,7 +20,7 @@
 ```
 
 <p align="center">  
-<img src="https://cdn.discordapp.com/attachments/952947200864956566/957427051919470612/uncaption.gif">
+<img src="https://tenor.com/view/lilpeep-liltracy-gbc-gif-9838490">
 </p>
 <p align="center">  
     <p align="center">
