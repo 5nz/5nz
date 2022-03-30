@@ -20,7 +20,7 @@
 ```
 
 <p align="center">  
-<img src="https://tenor.com/view/lilpeep-liltracy-gbc-gif-9838490">
+<img src="https://github.com/5nz/5nz/blob/main/GIF/pbks5nhi9mg.gif?raw=true">
 </p>
 <p align="center">
     5nz
