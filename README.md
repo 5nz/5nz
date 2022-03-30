@@ -1,16 +1,25 @@
-### Hi there 👋
 
-<!--
-**5nz/5nz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ________  ________   ________     
+|\   ____\|\   ___  \|\_____  \    
+\ \  \___|\ \  \\ \  \\|___/  /|   
+ \ \_____  \ \  \\ \  \   /  / /   
+  \|____|\  \ \  \\ \  \ /  /_/__  
+    ____\_\  \ \__\\ \__\\________\
+   |\_________\|__| \|__|\|_______|
+   \|_________|                    
+                                   
+                                   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">  
+<img src="https://cdn.discordapp.com/attachments/952947200864956566/957427051919470612/uncaption.gif">
+</p>
+<p align="center">
+    7teen
+<p align="center">  
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-1/957438978573885451.png"/>
+</p>
+<p align="center">
+Currently coding discord nuke bot!
+<p align="center">
+    <a href="https://discord.gg/EGjXbqBnPK">Discord Server</a>
