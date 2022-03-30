@@ -13,7 +13,6 @@
 <p align="center">  
 <img src="https://cdn.discordapp.com/attachments/952947200864956566/957427051919470612/uncaption.gif">
 </p>
-<p align="center">
 <p align="center">  
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-1/957438978573885451.png"/>
