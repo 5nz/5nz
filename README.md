@@ -27,7 +27,7 @@
 </p>
 <p align="center">  
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/698850297434603532.png"/>
+  <img src="https://discord.c99.nl/widget/theme-3/969877563738554379.png"/>
 </p>
 <p align="center">
 Currently coding discord nuke bot!
