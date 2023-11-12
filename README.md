@@ -27,9 +27,9 @@
 </p>
 <p align="center">  
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/969877563738554379.png"/>
+  <img src="https://discord.c99.nl/widget/theme-3/1167683183056269312.png"/>
 </p>
 <p align="center">
 Currently A Roblox Script Hub!
 <p align="center">
-    <a href="https://discord.gg/EGjXbqBnPK">Discord Server</a>
+    <a href="https://discord.gg/fcHxFz9p8A">Discord Server</a>
