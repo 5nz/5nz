@@ -1,35 +1,34 @@
-```
-                                             ,----,.                          
-                                           ,'   ,' |                          
-                                         ,'   .'   |                          
-                                       ,----.'    .'                          
-                                       |    |   .'        ,---,        ,----, 
-                                       :    :  |--,   ,-+-. /  |     .'   .`| 
-                                       :    |  ;.' \ ,--.'|'   |  .'   .'  .' 
-                                       |    |      ||   |  ,"' |,---, '   ./  
-                                       `----'.'\   ;|   | /  | |;   | .'  /   
-                                         __  \  .  ||   | |  | |`---' /  ;--, 
-                                       /   /\/  /  :|   | |  |/   /  /  / .`| 
-                                      / ,,/  ',-   .|   | |--'  ./__;     .'  
-                                      \ ''\       ; |   |/      ;   |  .'     
-                                       \   \    .'  '---'       `---'         
-                                        `--`-,-'                              
+# 👋 Hey there, I'm 5nz!
 
-                            𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 Working on CORRUPTION
-                            𝑪𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝑲𝒏𝒐𝒘 𝑯𝒐𝒘 𝑻𝒐 𝑪𝒐𝒅𝒆 𝑰𝒏: 𝑱𝒔, 𝑷𝒚, 𝑯𝒕𝒎𝒍, 𝑪𝒔𝒔, 𝑳𝒖𝒂(𝑹𝒐𝒃𝒍𝒐𝒙)
-```
+![Discord Status](https://discord.c99.nl/widget/theme-3/1167683183056269312.png)
 
-<p align="center">  
-<img src="https://github.com/5nz/5nz/blob/main/GIF/pbks5nhi9mg.gif?raw=true">
-</p>
-<p align="center">
-    5nz
-</p>
-<p align="center">  
-    <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/1167683183056269312.png"/>
-</p>
-<p align="center">
-Currently A Roblox Script Hub!
-<p align="center">
-    <a href="https://discord.gg/fcHxFz9p8A">Discord Server</a>
+## 🚀 About Me
+
+- 🌐 Currently working on **CORRUPTION**
+- 💻 Proficient in: **JavaScript (Node.js), Python, HTML/CSS**
+- 🎮 Roblox Script Hub Developer
+- 🌈 Knows How To Code In: **JavaScript, Python, HTML, CSS, Lua (Roblox)**
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)
+![Roblox](https://img.shields.io/badge/-Roblox-black?style=flat-square&logo=roblox)
+
+## 🌐 Connect with Me
+
+- [Discord Server](https://discord.gg/fcHxFz9p8A)
+- [GitHub](https://github.com/5nz)
+- [Twitter](https://twitter.com/YourTwitterHandle)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5nz&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+## 🎉 Let's Connect!
+
+Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about coding and technology! 😊
