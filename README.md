@@ -4,9 +4,8 @@
 
 ## 🚀 About Me
 
-- 🌐 Currently working on **CORRUPTION**
+- 🌐 Currently working on **CORRUPT RAIDER**
 - 💻 Proficient in: **JavaScript (Node.js), Python, HTML/CSS**
-- 🎮 Roblox Script Hub Developer
 - 🌈 Knows How To Code In: **JavaScript, Python, HTML, CSS, Lua (Roblox)**
 
 ## 🛠️ Technologies & Tools
@@ -23,7 +22,7 @@
 
 - [Discord Server](https://discord.gg/fcHxFz9p8A)
 - [GitHub](https://github.com/5nz)
-- [Twitter](https://twitter.com/YourTwitterHandle)
+- [Youtube](https://www.youtube.com/@5nz122)
 
 ## 📊 GitHub Stats
 
@@ -31,4 +30,4 @@
 
 ## 🎉 Let's Connect!
 
-Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about coding and technology! 😊
+- Feel free to reach out if you have any questions, collaboration ideas!😊
