@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm 5nz!
 
-![Discord Status](https://discord.c99.nl/widget/theme-3/1167683183056269312.png)
+![Discord Status](https://discord.c99.nl/widget/theme-1/1167683183056269312.png)
 
 ## 🚀 About Me
 
-- 🌐 Currently working on **CORRUPT RAIDER**
+- 🌐 Currently working on **SG**
 - 💻 Proficient in: **JavaScript (Node.js), Python, HTML/CSS**
 - 🌈 Knows How To Code In: **JavaScript, Python, HTML, CSS, Lua (Roblox)**
 
@@ -20,7 +20,7 @@
 
 ## 🌐 Connect with Me
 
-- [Discord Server](https://discord.gg/fcHxFz9p8A)
+- [Discord Server](https://discord.gg/4wffQmV6mR)
 - [GitHub](https://github.com/5nz)
 - [Youtube](https://www.youtube.com/@5nz122)
 
